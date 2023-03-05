@@ -55,11 +55,11 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 ## 
 ## 
 ## MINI-DEMO
+![imagen1](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen1.jpg)
+![imagen2](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen2.jpg)
+![imagen3](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen3.jpg)
+![imagen4](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen4.jpg)
 
-https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen1.jpg
-https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen2.jpg
-https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen3.jpg
-https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen4.jpg
 ## ACCESO-AL-PROYECTO
 
 ## TECNOLOGÍAS
